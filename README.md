@@ -13,9 +13,9 @@
 
 ＞ 檔案裡面的  資料夾或檔案隨時都能更換 ,有些是配合上傳 github 而建的
 
-css - 擺放套件 CSS
-font - 字體檔
-image - 存放照片
-js - 存放ＪＳ
-layout - 存放版型 HTML
-sass - 轉寫 Css 區域
+1. css - 擺放套件 CSS
+2. font - 字體檔
+3. image - 存放照片
+4. js - 存放ＪＳ
+5. layout - 存放版型 HTML
+6. sass - 轉寫 Css 區域
